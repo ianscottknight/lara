@@ -1,0 +1,6 @@
+black
+strong
+shiny
+spiky
+thick
+pretty
